@@ -2,6 +2,10 @@
 
 ## Explanation of Code
 
+### Video of Code Execution
+
+See (my robot following the line)[https://drive.google.com/file/d/1WGkbqJCFMbHdIANs4VHX3sLer-FZ7b6b/view?usp=share_link]
+
 ### How the Code Runs
 
 When the command `roslaunch line_follower_pa linemission.launch model:=waffle` is executed on the command line in a catkin workspace, the `linemission.launch` file uses the `gazebo_ros` package and the `lfm1.world` file in the `worlds` directory to begin a gazebo simulation with the waffle robot in a world with a yellow line.
