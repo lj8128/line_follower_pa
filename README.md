@@ -4,7 +4,7 @@
 
 ### Video of Code Execution
 
-See [my robot following the line](https://drive.google.com/file/d/1WGkbqJCFMbHdIANs4VHX3sLer-FZ7b6b/view?usp=share_link)
+See [my robot following a yellow line](https://drive.google.com/file/d/1WGkbqJCFMbHdIANs4VHX3sLer-FZ7b6b/view?usp=share_link).
 
 ### How the Code Runs
 
